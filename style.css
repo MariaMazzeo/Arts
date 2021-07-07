@@ -400,7 +400,7 @@ section#contact {
 
 section#about {
   background-color: var(--navColor2);
-  background-image: url(../images/Untitled\ design-4.png);
+  background-image: url(../Arts/images/Untitled\ design-4.png);
   background-size:cover ;
   height: 100vh;
   width: 100vw;
@@ -594,7 +594,7 @@ section#about {
 
 section#about{ 
 background-color: var(--navColor2);
-background-image: url(../images/Untitled\ design-4.png);
+background-image: url(../Arts/images/Untitled\ design-4.png);
 background-size:cover;
 padding: 0px 0px;
 height: 100vh;
